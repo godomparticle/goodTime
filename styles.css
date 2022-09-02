@@ -94,7 +94,7 @@ img{
     background-color: rgb(218, 27, 27);
     width: 7px;
     position: absolute;
-    height: 110px;
+    height: 70px;
     transform-origin: bottom center;
 bottom: 50%;
 z-index: 3;
@@ -105,12 +105,12 @@ box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .arrows .hour{
     
- height: 100px;
+ height: 55px;
     transform: rotate(30deg);
     background-color: aqua;
 }
 .arrows .second{
-   
+   height:80px;
     background-color:rgb(252, 164, 0);
         transform: rotate(250deg);
     }
